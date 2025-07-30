@@ -51,4 +51,4 @@ Estoy en constante aprendizaje y mejora. Actualmente me interesa seguir profundi
 ## 📫 Contacto
 
 - 📦 GitHub: [github.com/PavelR31](https://github.com/PavelR31)
-- ✉️ Email: [tu.email@ejemplo.com](mailto:pavelrodriguez616@gmail.com)
+- ✉️ Email: [pavelrodriguez616@gmail.com](mailto:pavelrodriguez616@gmail.com)
