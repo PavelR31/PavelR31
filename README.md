@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,debian,arch,windows,fedora,bash,laravel,php,mysql,sqlite,git,github,githubactions,vscode&perline=7" />
 </p>
-# Pavel Rodríguez
+
 
 Soy un entusiasta de la tecnología con enfoque en **servidores Linux**, **scripting en Bash** y **automatización de tareas**, complementado con desarrollo backend en **Laravel**. Me interesa entender cómo funcionan los sistemas desde adentro y construir soluciones **funcionales, eficientes y bien documentadas**, aplicando buenas prácticas de **CI/CD**.
 
