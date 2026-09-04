@@ -31,7 +31,7 @@ Soy un entusiasta de la tecnología con enfoque en **servidores Linux**, **scrip
 ## Tecnologías y herramientas
 
 **Sistemas operativos**
-- Arch Linux, Debian, Fedora, Windows
+- Debian, Fedora, Windows
 
 **Automatización y administración**
 - Bash, crontab, systemd
@@ -51,16 +51,12 @@ Soy un entusiasta de la tecnología con enfoque en **servidores Linux**, **scrip
 **Virtualización**
 - VirtualBox, Proxmox, VMware
 
-**Diseño**
-- Canva, Illustrator, Photoshop
 
 ---
 
 ## Estadísticas de GitHub
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelR31&layout=compact&theme=tokyonight)
-
----
+![Lenguajes más usados](https://github-stats-extended.vercel.app/api/top-langs?username=PavelR31&layout=compact&theme=tokyonight)
 
 ## En qué estoy enfocado ahora
 
